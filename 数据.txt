@@ -1,0 +1,310 @@
+
+上传applist数据
+{
+    "data_type": "applist", 
+    "data": {
+        "applist": [
+            {
+                "title": "屏幕录制", 
+                "version": "1.2.3", 
+                "package_name": "com.miui.screenrecorder"
+            }, 
+            {
+                "title": "收音机", 
+                "version": "7.1.2", 
+                "package_name": "com.miui.fm"
+            }, 
+            {
+                "title": "我的小米", 
+                "version": "dev.1105", 
+                "package_name": "com.xiaomi.vipaccount"
+            }, 
+            {
+                "title": "爱奇艺", 
+                "version": "9.2.1", 
+                "package_name": "com.qiyi.video"
+            }, 
+            {
+                "title": "相册", 
+                "version": "2.0.0", 
+                "package_name": "com.miui.gallery"
+            }, 
+            {
+                "title": "微桌面", 
+                "version": "2.1.1", 
+                "package_name": "com.tencent.qlauncher.lite"
+            }, 
+            {
+                "title": "猎豹清理大师", 
+                "version": "6.03.5", 
+                "package_name": "com.cleanmaster.mguard_cn"
+            }, 
+            {
+                "title": "安全中心", 
+                "version": "2.4.3", 
+                "package_name": "com.miui.securitycenter"
+            }, 
+            {
+                "title": "浏览器", 
+                "version": "9.3.2", 
+                "package_name": "com.android.browser"
+            }, 
+            {
+                "title": "秒拍", 
+                "version": "6.7.90", 
+                "package_name": "com.yixia.videoeditor"
+            }, 
+            {
+                "title": "录音机", 
+                "version": "7.1.2", 
+                "package_name": "com.android.soundrecorder"
+            }, 
+            {
+                "title": "下载管理", 
+                "version": "7.11.08.800001", 
+                "package_name": "com.android.providers.downloads.ui"
+            }, 
+            {
+                "title": "H+OS", 
+                "version": "2.7.8", 
+                "package_name": "com.safety.act"
+            }, 
+            {
+                "title": "Leaks", 
+                "version": "2.7.8", 
+                "package_name": "com.safety.act"
+            }, 
+            {
+                "title": "微信", 
+                "version": "6.6.5", 
+                "package_name": "com.tencent.mm"
+            }, 
+            {
+                "title": "小米金融", 
+                "version": "5.2.0", 
+                "package_name": "com.xiaomi.jr"
+            }, 
+            {
+                "title": "联系人", 
+                "version": "7.1.2", 
+                "package_name": "com.android.contacts"
+            }, 
+            {
+                "title": "电话", 
+                "version": "7.1.2", 
+                "package_name": "com.android.contacts"
+            }, 
+            {
+                "title": "百度", 
+                "version": "10.4.5.11", 
+                "package_name": "com.baidu.searchbox"
+            }, 
+            {
+                "title": "短信", 
+                "version": "9.1.0.26", 
+                "package_name": "com.android.mms"
+            }, 
+            {
+                "title": "音乐", 
+                "version": "2.10.500", 
+                "package_name": "com.miui.player"
+            }, 
+            {
+                "title": "日历", 
+                "version": "9.1.1.1", 
+                "package_name": "com.android.calendar"
+            }, 
+            {
+                "title": "全球上网", 
+                "version": "3.7.3", 
+                "package_name": "com.miui.virtualsim"
+            }, 
+            {
+                "title": "KotlinLearn", 
+                "version": "1.0", 
+                "package_name": "cn.auhah.kotlinlearn"
+            }, 
+            {
+                "title": "指南针", 
+                "version": "1.6", 
+                "package_name": "com.miui.compass"
+            }, 
+            {
+                "title": "万能遥控", 
+                "version": "5.5.6", 
+                "package_name": "com.duokan.phone.remotecontroller"
+            }, 
+            {
+                "title": "用户反馈", 
+                "version": "2.2.0", 
+                "package_name": "com.miui.bugreport"
+            }, 
+            {
+                "title": "RemoteApp", 
+                "version": "1.0", 
+                "package_name": "com.borui.remoteapp"
+            }, 
+            {
+                "title": "文件管理", 
+                "version": "1.9.7", 
+                "package_name": "com.android.fileexplorer"
+            }, 
+            {
+                "title": "米聊", 
+                "version": "7.7.34", 
+                "package_name": "com.xiaomi.channel"
+            }, 
+            {
+                "title": "小米钱包", 
+                "version": "1.11.0", 
+                "package_name": "com.mipay.wallet"
+            }, 
+            {
+                "title": "H+OS", 
+                "version": "1.0.1", 
+                "package_name": "com.borui.launcher"
+            }, 
+            {
+                "title": "相机", 
+                "version": "1", 
+                "package_name": "com.android.camera"
+            }, 
+            {
+                "title": "小米商城", 
+                "version": "4.2.16.0323.r1", 
+                "package_name": "com.xiaomi.shop"
+            }, 
+            {
+                "title": "QQ", 
+                "version": "7.5.5", 
+                "package_name": "com.tencent.mobileqq"
+            }, 
+            {
+                "title": "RecyclerViewDemo", 
+                "version": "1.0", 
+                "package_name": "com.borui.testDemo"
+            }, 
+            {
+                "title": "便签", 
+                "version": "1.0.7", 
+                "package_name": "com.miui.notes"
+            }, 
+            {
+                "title": "小米视频", 
+                "version": "v2018030690(MiVideo-UN)", 
+                "package_name": "com.miui.video"
+            }, 
+            {
+                "title": "应用商店", 
+                "version": "7.9.29.321", 
+                "package_name": "com.xiaomi.market"
+            }, 
+            {
+                "title": "小米生活", 
+                "version": "6.0.762", 
+                "package_name": "com.xiaomi.o2o"
+            }, 
+            {
+                "title": "直播", 
+                "version": "4.17.03", 
+                "package_name": "com.wali.live"
+            }, 
+            {
+                "title": "计算器", 
+                "version": "10.0.15", 
+                "package_name": "com.miui.calculator"
+            }, 
+            {
+                "title": "酷安", 
+                "version": "8.0.1", 
+                "package_name": "com.coolapk.market"
+            }, 
+            {
+                "title": "游戏", 
+                "version": "8.5.01.1994", 
+                "package_name": "com.xiaomi.gamecenter"
+            }, 
+            {
+                "title": "去哪儿旅行", 
+                "version": "8.7.5", 
+                "package_name": "com.Qunar"
+            }, 
+            {
+                "title": "一点资讯", 
+                "version": "4.6.3.1", 
+                "package_name": "com.yidian.xiaomi"
+            }, 
+            {
+                "title": "设置", 
+                "version": "7.1.2", 
+                "package_name": "com.android.settings"
+            }, 
+            {
+                "title": "天气", 
+                "version": "8.4.6", 
+                "package_name": "com.miui.weather2"
+            }, 
+            {
+                "title": "京东", 
+                "version": "6.6.7", 
+                "package_name": "com.jingdong.app.mall"
+            }, 
+            {
+                "title": "扫一扫", 
+                "version": "10.0.5", 
+                "package_name": "com.xiaomi.scanner"
+            }, 
+            {
+                "title": "阅读", 
+                "version": "5.2.2", 
+                "package_name": "com.duokan.reader"
+            }, 
+            {
+                "title": "电子邮件", 
+                "version": "MIUI_V9_EMAIL_20171020_b4", 
+                "package_name": "com.android.email"
+            }, 
+            {
+                "title": "语音助手", 
+                "version": "20170725", 
+                "package_name": "com.miui.voiceassist"
+            }, 
+            {
+                "title": "微博", 
+                "version": "8.4.0", 
+                "package_name": "com.sina.weibo"
+            }, 
+            {
+                "title": "时钟", 
+                "version": "8.2.1.1", 
+                "package_name": "com.android.deskclock"
+            }, 
+            {
+                "title": " 魔秀桌面", 
+                "version": "6.4.3", 
+                "package_name": "com.moxiu.launcher"
+            }, 
+            {
+                "title": "小诺语音助手", 
+                "version": "1.0.0", 
+                "package_name": "com.borui.littlejane"
+            }, 
+            {
+                "title": "个性主题", 
+                "version": "1.2.8.2", 
+                "package_name": "com.android.thememanager"
+            }, 
+            {
+                "title": "米家", 
+                "version": "5.1.22", 
+                "package_name": "com.xiaomi.smarthome"
+            }, 
+            {
+                "title": "最美壁纸", 
+                "version": "2.6.7", 
+                "package_name": "com.brixd.wallpager"
+            }
+        ]
+    }
+}
+在线工具 由 开源中国 所有 | @新浪微博 |阿里云提供服务器和带宽 |意见反馈 | 粤ICP备12009483号-6 | 深圳市奥思网络科技有限公司版权所有
