@@ -1,0 +1,4 @@
+调用domain进行结果处理：
+AbstractDomain     public final OutputMap Result() 
+
+AbstractDomain     protected OutputMap getResult()
